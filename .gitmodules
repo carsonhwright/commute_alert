@@ -1,0 +1,3 @@
+[submodule "lattice_governor"]
+	path = lattice_governor
+	url = git@github.com:carsonhwright/lattice_governor.git
